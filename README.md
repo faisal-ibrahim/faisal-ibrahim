@@ -1,6 +1,7 @@
 ## Hi, I'm Faisal Ibrahim 👋
 
-### I am a passionate web programmer, having 9 years of experience in Web Development and working as a full-time Web Application Developer (PHP) for the last 7 years. I take great care to ensure each project is well-documented and easily maintainable so you can enhance a website as your company grows. Currently...
+I am a passionate web programmer, having 9 years of experience in Web Development and working as a full-time Web Application Developer (PHP) for the last 7 years. I take great care to ensure each project is well-documented and easily maintainable so you can enhance a website as your company grows. Currently...
+
 - 💼 Working as a Full Stack Software Engineer at [AlfaDocs GmbH](https://www.alfadocs.com/)
 - 👨🏻‍💻 Working on [PHP](https://www.php.net/)
 - 🌱 Learning [Angular](https://angular.io/), [TypeScript](https://www.typescriptlang.org/)
@@ -17,7 +18,6 @@ I am always committed and dedicated to work and available online most of the tim
 [<img align="left" alt="faisal | StackOverFlow" width="22px" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg" />][stackoverflow]
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 ### Languages and Tools
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
@@ -29,14 +29,11 @@ I am always committed and dedicated to work and available online most of the tim
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
-
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 ### Frameworks
 <img align="left" alt="symfony" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" />
 <img align="left" alt="react" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 ### Github Stats
