@@ -2,7 +2,7 @@
 
 I am a passionate web programmer, having 10 years of experience in Web Development and working as a full-time Web Application Developer (PHP) for the last 8 years. I take great care to ensure each project is well-documented and easily maintainable so you can enhance a website as your company grows. Currently...
 
-- 💼 Working as a Full Stack Software Engineer at [Limango GmbH](https://www.limango.de/)
+- 💼 Working as a Software Development Engineer (Backend) at [Limango GmbH](https://www.limango.de/)
 - 👨🏻‍💻 Working on [PHP](https://www.php.net/), [GO](https://go.dev/)
 - 🌱 Learning [Angular](https://angular.io/), [TypeScript](https://www.typescriptlang.org/)
 - 💬 Ask me about PHP or any tech related stuff
