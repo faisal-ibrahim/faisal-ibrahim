@@ -1,6 +1,6 @@
 ## Hi, I'm Faisal Ibrahim 👋
 
-I am a passionate web programmer, having 10 years of experience in Web Development and working as a full-time Web Application Developer (PHP) for the last 8 years. I take great care to ensure each project is well-documented and easily maintainable so you can enhance a website as your company grows. Currently...
+I am a passionate web programmer, having 11 years of experience in Web Development and working as a full-time Web Application Developer (PHP) for the last 9 years. I take great care to ensure each project is well-documented and easily maintainable so you can enhance a website as your company grows. Currently...
 
 - 💼 Working as a Software Development Engineer (Backend) at [Limango GmbH](https://www.limango.de/)
 - 👨🏻‍💻 Working on [PHP](https://www.php.net/), [GO](https://go.dev/)
