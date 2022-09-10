@@ -5,7 +5,6 @@ I am a passionate web programmer, having 11 years of experience in Web Developme
 - 💼 Working as a Software Development Engineer (Backend) at [Limango GmbH](https://www.limango.de/)
 - 👨🏻‍💻 Working on [PHP](https://www.php.net/), [GO](https://go.dev/)
 - 🌱 Learning [Angular](https://angular.io/), [TypeScript](https://www.typescriptlang.org/)
-- 💬 Ask me about PHP or any tech related stuff
 
 My best strength is to learn new things very quickly. It will take a very short time for me to start work in a totally new environment.
 
