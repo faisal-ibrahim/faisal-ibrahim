@@ -3,7 +3,7 @@
 I am a passionate web programmer, having 11 years of experience in Web Development and working as a full-time Web Application Developer (PHP) for the last 9 years. I take great care to ensure each project is well-documented and easily maintainable so you can enhance a website as your company grows. Currently...
 
 - 👨🏻‍💻 Working on [PHP](https://www.php.net/), [GO](https://go.dev/)
-- 🌱 Learning [Angular](https://angular.io/), [TypeScript](https://www.typescriptlang.org/)
+- 🌱 Learning [Python](https://www.python.org/)
 
 My best strength is to learn new things very quickly. It will take a very short time for me to start work in a totally new environment.
 
